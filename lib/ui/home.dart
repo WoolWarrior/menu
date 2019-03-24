@@ -16,8 +16,11 @@ class Home extends StatelessWidget {
         "Pizza",
         textDirection: TextDirection.ltr,
         style: TextStyle(
-          fontSize: 30.0,
+          fontSize: 60.0,
           decoration: TextDecoration.none,
+          fontFamily: 'Oxygen',
+          fontWeight: FontWeight.normal
+
         ),
       ),
     ));
